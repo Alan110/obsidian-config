@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "808211dee1297604",
+    "type": "split",
+    "children": [
+      {
+        "id": "ded07956df7cc2d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "专精业务体系/互联网行业/消费金融/消费金融.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ecb62b49a4e2051",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dac2e8f0cfee0b83",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "481a4c418f581a29",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9b9bf76f06f2fe11",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d109fad8d4447feb",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ab10c6b4dc8d726e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cd2cb624268eab48",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "专精业务体系/互联网行业/消费金融/消费金融.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "457a8de94a64ac72",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "专精业务体系/互联网行业/消费金融/消费金融.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "ded07956df7cc2d6",
+  "lastOpenFiles": [
+    "专精业务体系/互联网行业/消费金融/消费金融.md",
+    "temp/办公环境/nvim/lua 配置.md",
+    "常用备忘.md",
+    "Todo.md",
+    "b端还是c端.md",
+    "live.com.md",
+    "传统文化/佛法/金刚经/金刚经中的福德功德.md",
+    "围绕obsidian知识体系工作流/remote-save + 阿里云oss同步.md",
+    "知识体系工作流整理/remote-save + 阿里云oss同步.md",
+    "知识体系整理/从语雀事件看个人的数据安全.md"
+  ]
+}

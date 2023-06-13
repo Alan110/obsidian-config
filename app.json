@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "附件",
+  "livePreview": false,
+  "vimMode": false,
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

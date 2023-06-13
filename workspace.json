@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "0746bcd12d92057d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2d110a04b2ad463",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e0157ed05b974c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp/办公环境/主机diy/ddns远程访问windows电脑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0b1a5b254124630",
+    "type": "split",
+    "children": [
+      {
+        "id": "414809c4500df6ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68bcab7cdd934f76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc3bb3891d95c7f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "路由器",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebc7749142056f73",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b6b56673a4db12e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "30fa2107129d8254",
+    "type": "split",
+    "children": [
+      {
+        "id": "f13cc4c50047790e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78c9f9a861677f05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "temp/办公环境/主机diy/ddns远程访问windows电脑.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a26ae112c83bcae8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29f9e2a63a061c4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "temp/办公环境/主机diy/ddns远程访问windows电脑.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "5e0157ed05b974c4",
+  "lastOpenFiles": [
+    "附件/image/ddns远程访问windows电脑-1686619851147.jpeg",
+    "temp/办公环境/主机diy/win10.md",
+    "temp/办公环境/主机diy/ddns远程访问windows电脑.md",
+    "temp/办公环境/主机diy/wsl2 子系统.md",
+    "附件/image/win10-1686619748986.jpeg",
+    "temp/办公环境/win10_1.md",
+    "temp/办公环境/nas/nas 入门.md",
+    "temp/计算机网络/家里路由器.md",
+    "temp/计算机网络/网络安全.md",
+    "temp/计算机网络/路由器wifi 桥接.md",
+    "temp/计算机网络/跨域cookie破解.md",
+    "常用备忘.md",
+    "专精业务体系/人工智能/解密超长prompt.md",
+    "专精业务体系/人工智能/AI 行业发展浪潮.md",
+    "专精业务体系/人工智能/gpt生成代码实践.md",
+    "temp/办公环境/主机diy/需要注意的事情.md",
+    "附件/image/需要注意的事情-1686301601068.jpeg",
+    "附件/image/需要注意的事情-1686300831827.jpeg",
+    "temp/办公环境/主机diy/系统激活.md",
+    "temp/办公环境/主机diy/制作win11启动盘.md",
+    "附件/image/需要注意的事情-1686128610238.jpeg",
+    "附件/image/需要注意的事情-1686128516813.jpeg",
+    "temp/react/事件函数频繁触发解决方案.md",
+    "temp/办公环境/主机diy",
+    "temp/react/useImperativeHandle.md",
+    "temp/react/react.md",
+    "专精业务体系/互联网行业/用户增长/直播电商与C2M.md",
+    "附件/image/直播电商与C2M-1686033271465.jpeg",
+    "附件/image/直播电商与C2M-1686032826590.jpeg",
+    "专精业务体系/互联网行业/用户增长/基于消费者运营的全域营销.md",
+    "专精业务体系/互联网行业/用户增长/互联网运营.md",
+    "专精业务体系/互联网行业/用户增长/渠道运营.md",
+    "专精业务体系/人工智能/深度学习的基础.md",
+    "专精业务体系/人工智能/GPT的发展和基础理论.md",
+    "附件/image/syncthing 使用教程-1685882419637.jpeg",
+    "附件/image/syncthing 使用教程-1685882419618.jpeg",
+    "附件/image/syncthing 使用教程-1685882419624.jpeg",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "image",
+    "画板测试.canvas",
+    "assets",
+    "传统文化/佛法/唯识论/assets",
+    "传统文化/佛法/唯识论",
+    "传统文化/佛法/未命名",
+    "临时记录",
+    "传统文化/取名",
+    "未命名",
+    "temp/软件工程/技术方案架构画图"
+  ]
+}
